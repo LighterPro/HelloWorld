@@ -1,4 +1,4 @@
-package FirsctPackage;
+package FirstPackage;
 
 public class HelloWorld {
     public static void main(String[] args) {
